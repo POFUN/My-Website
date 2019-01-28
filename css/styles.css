@@ -2,7 +2,7 @@
 body {
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-image: url(../images%20/home.jpg);
+	background-image: url(home.jpg);
 }
 
 .asideLeft {
